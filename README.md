@@ -1,2 +1,2 @@
 # ACMPOTD
-ACM Problem of the Day (optional)
+ACM Problem of the Day 
